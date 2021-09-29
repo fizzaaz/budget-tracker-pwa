@@ -26,10 +26,10 @@
 🔍Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 Budget Tracker is a progressive web application that allows users to track their budgets by adding expenses and deposits to their budget through the "Add/Subtract Funds" buttons. They are able to add a transaction with or without a connection. When a user enters a transaction while offline, these transactions are stored in the indexedDB, and transferred to the database when the user comes back online.
 
-✋ [GitHub Repository](https://github.com/fizzaaz/budget-tracker)
+✋ [GitHub Repository](https://github.com/fizzaaz/budget-tracker-pwa)
 
 
-✋ [Deployed App](https://pwa-budgetracker.herokuapp.com/)
+✋ [Deployed App](https://budget00tracker.herokuapp.com/)
 
 
 ![Screen Shot](./public/assets/images/ss.JPG)
@@ -62,7 +62,7 @@ Run the following command at the root of your project :
   
 `npm start`     
 
-To access the app after starting the server, go to http://localhost:3000 in your browser or go to https://pwa-budgetracker.herokuapp.com/.
+To access the app after starting the server, go to http://localhost:3000 in your browser or go to https://https://budget00tracker.herokuapp.com/.
 
 ## 💾Installation
 
